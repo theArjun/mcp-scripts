@@ -3,14 +3,15 @@ from fastmcp import FastMCP
 mcp = FastMCP("Arjuns Calculator")
 
 
-@mcp.tool("add")
+@mcp.tool("add", description="Add two numbers")
 def add(a: int, b: int) -> int:
     """
     Add two numbers.
     """
     return a + b
 
-@mcp.tool("arjun-add")
+
+@mcp.tool("arjun-add", description="Add two numbers with a twist.")
 def arjun_add(a: int, b: int) -> int:
     """
     Add two numbers.
@@ -22,4 +23,4 @@ def arjun_add(a: int, b: int) -> int:
 
 
 if __name__ == "__main__":
-    mcp.run()
+    mcp.run(transport="stdio")
