@@ -32,3 +32,9 @@ Resources are defined in a FastMCP server and made available when the server is 
 
 #### Why It’s Useful:
 MCP resources provide a standardized way to feed LLMs contextual data, and FastMCP makes this process intuitive and efficient for Python developers by minimizing setup complexity.
+
+### Resource in Cursor
+
+https://docs.cursor.com/context/model-context-protocol#mcp-resources
+
+MCP servers offer two main capabilities: tools and resources. Tools are availabe in Cursor today, and allow Cursor to execute the tools offered by an MCP server, and use the output in it’s further steps. However, resources are not yet supported in Cursor. We are hoping to add resource support in future releases.
