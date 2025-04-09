@@ -1,22 +1,22 @@
 {
-    "mcpServers": {
-        "arjuns-calculator": {
-            "command": "/Users/arjun/workspace/misc/mcp-scripts/.venv/bin/python",
-            "args": [
-                "/Users/arjun/workspace/misc/mcp-scripts/src/001-calculator/server.py"
-            ]
-        },
-        "weather-by-city-name": {
-            "command": "/Users/arjun/workspace/misc/mcp-scripts/.venv/bin/python",
-            "args": [
-                "/Users/arjun/workspace/misc/mcp-scripts/src/002-weather/server.py"
-            ]
-        },
-        "mcp-resource-demonstration": {
-            "command": "/Users/arjun/workspace/misc/mcp-scripts/.venv/bin/python",
-            "args": [
-                "/Users/arjun/workspace/misc/mcp-scripts/src/003-mcp-resource/server.py"
-            ]
-        }
+  "mcpServers": {
+    "arjuns-calculator": {
+      "command": "/Users/arjun/workspace/misc/mcp-scripts/.venv/bin/python",
+      "args": [
+        "/Users/arjun/workspace/misc/mcp-scripts/src/001-calculator/server.py"
+      ]
+    },
+    "weather-by-city-name": {
+      "command": "/Users/arjun/workspace/misc/mcp-scripts/.venv/bin/python",
+      "args": [
+        "/Users/arjun/workspace/misc/mcp-scripts/src/002-weather/server.py"
+      ]
+    },
+    "mcp-resource-demonstration": {
+      "command": "/Users/arjun/workspace/misc/mcp-scripts/.venv/bin/python",
+      "args": [
+        "/Users/arjun/workspace/misc/mcp-scripts/src/003-mcp-resource/server.py"
+      ]
     }
+  }
 }
