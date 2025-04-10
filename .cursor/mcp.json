@@ -35,7 +35,14 @@
       "args": [
         "-y",
         "@modelcontextprotocol/server-postgres",
-        "postgresql://localhost:5432/mydb"      ]
+        "postgresql://localhost:5432/mydb"
+      ]
+    },
+    "nepse": {
+      "command": "/Users/arjun/workspace/misc/mcp-scripts/.venv/bin/python",
+      "args": [
+        "/Users/arjun/workspace/misc/mcp-scripts/src/0010-nepse/server.py"
+      ]
     }
   }
 }
