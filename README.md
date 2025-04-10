@@ -15,6 +15,21 @@
 
 or project specific (explore on your own.)
 
+## Add from CLI
+Eg: install the Playwright MCP server using the VS Code CLI:
+
+```bash
+# For VS Code
+code --add-mcp '{"name":"playwright","command":"npx","args":["@playwright/mcp@latest"]}'
+```
+
+```bash
+# For VS Code Insiders
+code-insiders --add-mcp '{"name":"playwright","command":"npx","args":["@playwright/mcp@latest"]}'
+```
+
+After installation, the Playwright MCP server will be available for use with your GitHub Copilot agent in VS Code.
+
 ## Available transport modes:
 
 1. stdio
