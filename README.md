@@ -2,7 +2,6 @@
 
 ## Path for Claude Config:
 
-
 `$HOME/Library/Application Support/Claude/claude_desktop_config.json`
 
 
@@ -14,6 +13,9 @@
 `$HOME/Library/Application Support/Code - Insiders/User/settings.json`
 
 or project specific (explore on your own.)
+
+## Create a new workspace with agent mode (experimental) in VSCode:
+Click [here](https://code.visualstudio.com/updates/v1_99#_create-a-new-workspace-with-agent-mode-experimental) for instructions.
 
 ## Add from CLI
 Eg: install the Playwright MCP server using the VS Code CLI:
