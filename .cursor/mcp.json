@@ -17,6 +17,12 @@
       "args": [
         "/Users/arjun/workspace/misc/mcp-scripts/src/003-mcp-resource/server.py"
       ]
+    },
+    "send-email": {
+      "command": "/Users/arjun/workspace/misc/mcp-scripts/.venv/bin/python",
+      "args": [
+        "/Users/arjun/workspace/misc/mcp-scripts/src/006-send-email/server.py"
+      ]
     }
   }
 }
