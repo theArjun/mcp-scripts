@@ -7,7 +7,7 @@
 
 
 ## Path for Cursor Config:
-Project Dir/.cursor/mcp.json
+`{$PROJECT_DIR}/.cursor/mcp.json`
 
 
 ## Path for vscode insiders
