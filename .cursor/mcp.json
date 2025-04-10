@@ -41,7 +41,7 @@
     "nepse": {
       "command": "/Users/arjun/workspace/misc/mcp-scripts/.venv/bin/python",
       "args": [
-        "/Users/arjun/workspace/misc/mcp-scripts/src/0010-nepse/server.py"
+        "/Users/arjun/workspace/misc/mcp-scripts/src/010-nepse/server.py"
       ]
     }
   }
