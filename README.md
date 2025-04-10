@@ -69,3 +69,7 @@ The MCP configuration file uses a JSON format with the following structure:
 }
 ```
 The env field allows you to specify environment variables that will be available to your MCP server process. This is particularly useful for managing API keys and other sensitive configuration.
+
+## Client Feature Support Matrix
+
+Click [here](https://modelcontextprotocol.io/clients#feature-support-matrix).
