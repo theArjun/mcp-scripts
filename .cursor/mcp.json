@@ -23,6 +23,12 @@
       "args": [
         "/Users/arjun/workspace/misc/mcp-scripts/src/006-send-email/server.py"
       ]
+    },
+    "playwright": {
+      "command": "npx",
+      "args": [
+        "@playwright/mcp@latest"
+      ]
     }
   }
 }
